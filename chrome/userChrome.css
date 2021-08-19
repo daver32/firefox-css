@@ -1,0 +1,21 @@
+.tab-background {
+    margin-bottom: 0 !important;
+    border-top: 2px var(--identity-icon-color) solid !important;
+}
+
+#tabs-newtab-button>.toolbarbutton-icon {
+    border-radius: 0 !important;
+    margin-top: 1px !important;
+}
+
+.tab-close-button {
+    border-radius: 0 !important;
+    padding: 5px !important;
+    width: 24px !important;
+}
+
+:root {
+    --tab-min-height: 32px !important;
+    --tab-block-margin: 0px !important;
+    --tab-border-radius: 0px !important;
+}
